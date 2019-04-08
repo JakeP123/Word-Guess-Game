@@ -1,7 +1,7 @@
 
 # Word-Guess-Game
 
-![](/assets/images/Unit.PNG)
+![](../assets/images/Unit.PNG)
 
 
 **The word guess game is a futuristic virtual reality themed Hangman game. Once the window is loaded, press any button to start. You will select a letter by clicking the corresponding button for your choice. You are allowed 10 lives per word.** 
