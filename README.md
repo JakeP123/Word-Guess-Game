@@ -18,7 +18,7 @@ Format: ![Kat Walk Mini](www.twistedrealityarvr.com)
 4. The game can be restarted at any time by pressing the "Play Again" button.
 
 
-###**This is the process to create this page**
+### **This is the process to create this page**
 
 * Create Repositiories
 * Make Directories and touch html/css/js 
