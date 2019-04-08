@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #H1 Word-Guess-Game
 ![GitHub Logo](/assets/images/Unit.png)
 Format: ![Alt Text](url)
@@ -20,3 +21,6 @@ Format: ![Alt Text](url)
 * Create Repositiories
 * Make Directories and touch html/css/js 
 * Pseudo Code
+=======
+# Word-Guess-Game
+>>>>>>> 81b74d8cd26ca7796d3af65516c40d8f614c240b
